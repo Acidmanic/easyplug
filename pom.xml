@@ -6,6 +6,15 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>easyplug</name>
+    
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://github.com/Acidmanic/easyplug/master/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
